@@ -18,7 +18,7 @@
 
 ## 🔹 How to Use This Project  
 1. Clone this repository to your local machine or open it in Google Colab.  
-2. Upload the dataset (`heart_disease.csv`).  
+2. Upload the dataset (`heart.csv`).  
 3. Run the script step by step to build and evaluate the ANN model.  
 
-Happy coding ,My Dear's! 🚀
+Happy coding ,My dear visitor! 🚀
